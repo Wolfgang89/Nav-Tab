@@ -1,0 +1,24 @@
+PODS:
+  - CYLTabBarController (1.24.1):
+    - CYLTabBarController/Core (= 1.24.1)
+  - CYLTabBarController/Core (1.24.1)
+  - RTRootNavigationController (0.7.1):
+    - RTRootNavigationController/Core (= 0.7.1)
+  - RTRootNavigationController/Core (0.7.1)
+
+DEPENDENCIES:
+  - CYLTabBarController
+  - RTRootNavigationController
+
+SPEC REPOS:
+  https://github.com/cocoapods/specs.git:
+    - CYLTabBarController
+    - RTRootNavigationController
+
+SPEC CHECKSUMS:
+  CYLTabBarController: 46fa053a2fb165095e04792431ad91a759bb7f9f
+  RTRootNavigationController: afa6913402be26f8326f7f37fc1550aa67baddcc
+
+PODFILE CHECKSUM: 0154ffd35e0bd44f1229dd5c63ef519c466ae548
+
+COCOAPODS: 1.6.1
