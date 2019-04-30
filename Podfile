@@ -6,7 +6,11 @@ target 'test111' do
   # use_frameworks!
 
   # Pods for test111
+  # 顶部导航
   pod "RTRootNavigationController"
+  # 底部导航
   pod 'CYLTabBarController'
+  # 手势
+  pod 'FDFullscreenPopGesture'
 
 end
